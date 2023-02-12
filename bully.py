@@ -1,15 +1,4 @@
-"""
-CPSC 5520, Seattle University
-Lab 2: Bully
-Author: Sai Lavanya Kanakam
 
-Commented out PROBE message code. Was not able to fully validate the solution.
-
-Execution details: My next birthday and SUID are hard coded in main method. Following are sample commands,
-python lab2.py [gcd_host_name] [gcd_port_id]
-python lab2.py localhost 42024 
-
-"""
 import pickle
 import socket
 import sys
