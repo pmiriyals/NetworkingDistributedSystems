@@ -1,9 +1,4 @@
-"""
-CPSC 5520, Seattle University
-Lab 4: DHT
-Author: Sai Lavanya Kanakam
-Usage: python chord_populate.py 64300 "Career_Stats_Passing.csv"
-"""
+
 import sys
 import pickle
 import socket
