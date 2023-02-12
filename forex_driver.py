@@ -1,12 +1,4 @@
-"""
-CPSC 5520, Seattle University
-Lab 3: Pub/Sub
-Author: Sai Lavanya Kanakam
 
-Execution details: This is the main class with driver function creating subscriber and starting detection of arbitrages.
-python lab3.py 50530
-
-"""
 
 import sys
 from fxp_bytes_subscriber import Subscriber
