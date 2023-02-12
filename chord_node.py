@@ -1,9 +1,4 @@
-"""
-CPSC 5520, Seattle University
-Lab 4: DHT
-Author: Sai Lavanya Kanakam
-Usage: python chord_node.py 0
-"""
+
 import sys
 import pickle
 import hashlib
