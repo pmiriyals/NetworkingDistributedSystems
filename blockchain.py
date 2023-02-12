@@ -1,16 +1,7 @@
 """
-CPSC 5520, Seattle University
-Lab 5: Blockchain
-Author: Sai Lavanya Kanakam
+Blockchain
 
 Execution details: Please use following cmds to run the script,
-
-CMD (full lab5 specifications):
-python3 lab5.py
-python3 lab5.py > skanakam_output
-
-CMD (skip downloading block headers, use hardcoded header hash for block#489370, download full block, modify transaction and publish):
-python3 lab5.py skip_blockheader_download
 
 Description: This script performs the following,
 1. Tries to connect to a hardcoded peer endpoint.
