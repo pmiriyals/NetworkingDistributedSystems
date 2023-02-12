@@ -1,5 +1,4 @@
-# Lab1: Simple Client
-# Author: skanakam@seattleu.edu
+
 
 import socket
 import pickle
