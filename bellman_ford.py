@@ -1,8 +1,3 @@
-"""
-CPSC 5520, Seattle University
-Lab 3: Pub/Sub
-Author: Sai Lavanya Kanakam
-"""
 from math import log
 from datetime import datetime, timedelta
 import copy
