@@ -1,8 +1,4 @@
-"""
-CPSC 5520, Seattle University
-Lab 3: Pub/Sub
-Author: Sai Lavanya Kanakam
-"""
+
 import socket
 import time
 import ipaddress
