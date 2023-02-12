@@ -1,9 +1,4 @@
-"""
-CPSC 5520, Seattle University
-Lab 4: DHT
-Author: Sai Lavanya Kanakam
-Usage: python chord_query.py 64300 "tomfarris/2513861:1948"
-"""
+
 import sys
 import pickle
 import socket
